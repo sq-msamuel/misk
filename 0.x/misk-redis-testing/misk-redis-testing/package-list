@@ -1,0 +1,8 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.redis.testing////PointingToDeclaration/misk-redis-testing/misk.redis.testing/index.md
+$dokka.location:misk.redis.testing//main/#/PointingToDeclaration/misk-redis-testing/misk.redis.testing/main.md
+$dokka.location:misk.redis.testing/ForFakeRedis///PointingToDeclaration/misk-redis-testing/misk.redis.testing/-for-fake-redis/index.md
+$dokka.location:misk.redis.testing/ForFakeRedis/ForFakeRedis/#/PointingToDeclaration/misk-redis-testing/misk.redis.testing/-for-fake-redis/-for-fake-redis.md
+misk.redis.testing
+

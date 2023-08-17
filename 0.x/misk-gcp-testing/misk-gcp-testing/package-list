@@ -1,0 +1,13 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.cloud.gcp.storage////PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/index.md
+$dokka.location:misk.cloud.gcp.storage//check/kotlin.collections.Map[com.google.cloud.storage.spi.v1.StorageRpc.Option,*]#com.google.api.services.storage.model.StorageObject?/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/check.md
+$dokka.location:misk.cloud.gcp.testing////PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/index.md
+$dokka.location:misk.cloud.gcp.testing//setJsonContent/com.google.api.client.testing.http.MockLowLevelHttpResponse#kotlin.Any/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/set-json-content.md
+$dokka.location:misk.cloud.gcp.testing/Body///PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-body/index.md
+$dokka.location:misk.cloud.gcp.testing/Body/Body/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-body/-body.md
+$dokka.location:misk.cloud.gcp.testing/Body/Body/#java.lang.String/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-body/-body.md
+$dokka.location:misk.cloud.gcp.testing/Body/message/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-body/message.md
+misk.cloud.gcp.storage
+misk.cloud.gcp.testing
+

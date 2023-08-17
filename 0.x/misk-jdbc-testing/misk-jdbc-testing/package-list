@@ -1,0 +1,20 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.vitess////PointingToDeclaration/misk-jdbc-testing/misk.vitess/index.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks.Companion///PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-companion/index.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks.CowriteDetector///PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-cowrite-detector/index.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks.CowriteDetector/CowriteDetector/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-cowrite-detector/-cowrite-detector.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks.FullScatterDetector///PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-full-scatter-detector/index.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks.FullScatterDetector/FullScatterDetector/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-full-scatter-detector/-full-scatter-detector.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks.TableScanDetector///PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-table-scan-detector/index.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks.TableScanDetector/TableScanDetector/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-table-scan-detector/-table-scan-detector.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks///PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/index.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks/VitessScaleSafetyChecks/#misk.jdbc.DataSourceConfig#okhttp3.OkHttpClient#com.squareup.moshi.Moshi#misk.database.StartDatabaseService/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-vitess-scale-safety-checks.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks/config/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/config.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks/connect/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/connect.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks/decorate/#javax.sql.DataSource/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/decorate.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks/moshi/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/moshi.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks/okHttpClient/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/ok-http-client.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks/startDatabaseService/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/start-database-service.md
+misk.vitess
+
